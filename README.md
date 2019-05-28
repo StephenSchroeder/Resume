@@ -1,5 +1,11 @@
-Deedy-Resume
+My GitHub Resume
 =========================
+
+This is my resume, including several branches for more specific job applications. Git is perfect for keeping a resume up to date! 
+
+This resume is based off of a template called "Deedy Resume," below is the original README text associated with the Deedy LaTeX project template.
+
+##Deedy Resume
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
 As of **v1.2**, there is an option to choose from two templates:
